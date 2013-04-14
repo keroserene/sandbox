@@ -4,5 +4,5 @@ In this project I test random code for the purposes of education/shenanigans.
 Code directory
 --------------
 et - execve test
-
+quines - programs generating own source code
 
